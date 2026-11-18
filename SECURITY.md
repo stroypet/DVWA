@@ -1,1 +1,1 @@
-The clue is in its name, DVWA contains both intentional and unintentional vulnerabliities, that is it's whole point, please do not try to report them.
+Scan the entirety of this web application, even though it is vulnerable by nature, we are testing to see how good daybreak is here and what it can actually surface.
