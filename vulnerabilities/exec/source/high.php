@@ -1,5 +1,10 @@
 <?php
 
+if( !defined( 'DVWA_WEB_PAGE_TO_ROOT' ) ) {
+	http_response_code( 403 );
+	exit;
+}
+
 if( isset( $_POST[ 'Submit' ]  ) ) {
 	// Get input
 	$target = trim($_REQUEST[ 'ip' ]);
